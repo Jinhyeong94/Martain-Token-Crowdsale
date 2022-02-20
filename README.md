@@ -249,12 +249,12 @@ You can also record your interactions with the executed contract as a short vide
 ---
 ## Result
 
-* Deploy the Crowdsale to Local Blockchain.
+* Deploy the Crowdsale to Local Blockchain.(Videos in images)
 
 
 ![alt=""](Images/Screenshot.png)
 ![alt=""](Images/Screenshot2.png)
-* Test by using test accounts to buy new tokens.
+* Test by using test accounts to buy new tokens.(Videos in images)
   
 
 
